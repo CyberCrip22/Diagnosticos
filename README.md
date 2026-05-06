@@ -21,12 +21,4 @@
 - Python 3.6 ou superior
 - Nenhuma biblioteca externa – só o que já vem com o Python
 
----
 
-##  Como usar
-
-1. **Clone ou baixe o script**
-
-```bash
-git clone https://github.com/seu-usuario/cybercrip-diagnostic-tool.git
-cd cybercrip-diagnostic-tool
